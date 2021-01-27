@@ -8,3 +8,23 @@
 >  Anime Discord Selfbot Made With JavaScript Using Discord.js
 
 Tanjiro Selfbot is a open source Discord bot coded in JavaScript with [Discord.js](https://discord.js.org) by [Darkpokefan](https://github.com/darkpokefan).  
+## Categories 📑
+- [x] GENERAL
+- [x] TEXT
+- [x] MODERATION 
+- [x] IMAGE
+- [x] FUN
+- [X] NSFW
+- [X] Abuse
+
+## Bot Setup  🔊
+* **Clone the Repo** by typing ``git clone https://github.com/darkpokefan/Tanjiro-Kamado-Selfbot
+
+* Set up your **[.env](https://github.com/darkpokefan/Tanjiro-Kamado-selfbot/blob/Master/.env)** file with your respective information.
+```
+{
+    "token": "",      // Discord Account Token
+    "password": "",   // Discord Account Password
+    "prefix": "",     // Your Prefix
+}
+```
