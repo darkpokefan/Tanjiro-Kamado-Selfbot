@@ -3,7 +3,7 @@
 # Tanjiro SelfBot ✨
 
 [![Run on Repl.it](https://repl.it/badge/github/darkpokefan/Tanjiro-Kamado-Selfbot)](https://repl.it/github/darkpokefan/Tanjiro-Kamado-Selfbot)
-[![Remix on Glitch](https://cdn.glitch.com/2496658d-c878-47e2-becf-187d8183023f%2Fremix-button.svg)](https://glitch.com/edit/#!/import/github/darkpokefan/Tanjiro-Kamado-Selfbot)
+[![Remix on Glitch](https://cdn.glitch.com/2703baf2-b643-4da7-ab91-7ee2a2d00b5b%2Fremix-button.svg)](https://glitch.com/edit/#!/import/github/darkpokefan/Tanjiro-Kamado-Selfbot)
 [![](https://img.shields.io/badge/discord.js-v12.0.0--dev-blue.svg?logo=npm)](https://github.com/discordjs)
 >  Anime Discord Selfbot Made With JavaScript Using Discord.js
 
