@@ -1,4 +1,4 @@
-[SelfBot](https://telegra.ph/file/f2771930c409401a0925c.png)
+![SelfBot](https://telegra.ph/file/f2771930c409401a0925c.png)
 
 # Tanjiro SelfBot ✨
 
