@@ -28,3 +28,7 @@ Tanjiro Selfbot is a open source Discord bot coded in JavaScript with [Discord.j
     "prefix": "",     // Your Prefix
 }
 ```
+* **Install** all the packages by typing **``npm Tanjiro ``**
+
+* **Start** the bot by typing **``node Tanjiro.js``**
+
