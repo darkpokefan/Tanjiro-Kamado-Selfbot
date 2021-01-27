@@ -32,3 +32,10 @@ Tanjiro Selfbot is a open source Discord bot coded in JavaScript with [Discord.j
 
 * **Start** the bot by typing **``node Tanjiro.js``**
 
+## License ©️
+Tanjiro Selfbot is licensed under the GPL 3.0 license. See the file `LICENSE` for more information. If you plan to use any part of this source code in your own bot, I would be grateful if you would include some form of credit somewhere.
+
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://github.com/darkpokefan)&nbsp;
+
+
+
