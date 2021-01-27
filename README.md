@@ -1,4 +1,4 @@
-<img width="150" height="150" align="left" style="float: left; margin: 0 10px 0 0;"https://telegra.ph/file/f2771930c409401a0925c.png?size=1024"> 
+[SelfBot](https://telegra.ph/file/f2771930c409401a0925c.png)
 
 # Tanjiro SelfBot ✨
 
